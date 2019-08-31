@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_3">Item 3</string>
+    <string name="item_4">Item 4</string>
+    <string name="item_5">Item 5</string>
+    <string name="item_6">Item 6</string>
+    <string name="item_7">Item 7</string>
+    <string name="item_8">Item 8</string>
+    <string name="item_9">Item 9</string>
+    <string name="item_10">Item 10</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="doritos">Doritos</string>
+    <string name="eggplant">Eggplant</string>
+    <string name="fritos">Fritos</string>
+    <string name="grapes">Grapes</string>
+    <string name="mayo">Mayo</string>
+    <string name="icecream">Ice Cream</string>
+    <string name="juice">Juice</string>
+    <string name="Items">Items</string>
+</resources>
